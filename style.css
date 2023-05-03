@@ -1,0 +1,56 @@
+body {
+  min-height: 3000px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #b3d0ff;
+}
+
+#galeri {
+  background-color: #b3d0ff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.social-media-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.social-media-list li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.social-media-icon {
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background-size: contain;
+  background-repeat: no-repeat;
+  text-indent: -9999px;
+}
+
+.tiktok {
+  background-image: url('https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/svgs/brands/tiktok.svg');
+}
+
+.instagram {
+  background-image: url('https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/svgs/brands/instagram.svg');
+}
+
+.facebook {
+  background-image: url('https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/svgs/brands/facebook.svg');
+}
+
+.twitter {
+  background-image: url('https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/svgs/brands/twitter.svg');
+}
+
+.github {
+  background-image: url('https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/svgs/brands/github.svg');
+}
